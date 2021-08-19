@@ -1,4 +1,4 @@
-# Hello World!
+## Welcome!
 
 I'm a fourth year medical student at [@QUMedicine](https://twitter.com/QUMedicine) and a research fellow in Urology Quality Improvement & Health Services and Clinical Outcomes [@Yale_Urology](https://twitter.com/Yale_Urology).
 
